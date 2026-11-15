@@ -1265,7 +1265,7 @@ with abas[0]:
             "lattes": None
         },
         {
-    "nome": "Débora Cordeiro de Sousa",
+    "nome": "Débora  de Sous Cordeiro",
     "iniciais": "DC",
     "instituicao": "UFRPE",
     "vinculo": (
