@@ -6,3 +6,4 @@ geopandas
 matplotlib
 openpyxl
 scipy
+statsmodels
